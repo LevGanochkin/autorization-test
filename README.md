@@ -1,3 +1,7 @@
+#Before started
+In this project I mocked all the responses that all the errors go to console but processes is going like after resolve response.
+This includes only API requests, validation works fine
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
